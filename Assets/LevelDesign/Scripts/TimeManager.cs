@@ -28,10 +28,14 @@ public class TimeManager : MonoBehaviour
         //時間制限がきたとき
         if (limit < 0)
         {
-            //ゲームオーバーを表示する
-            text.GetComponent<Text>().text = "GameOver...";
-            text.SetActive(true);
-            isGameOver = true;            //ゲームオーバー
+            if (text.activeSelf == false)
+            {
+                //ゲームオーバーを表示する
+                text.GetComponent<Text>().text = "GameOver...";
+                text.SetActive(true);
+                isGameOver = true;            //ゲームオーバー
+            }
+
             return;
         }
 
