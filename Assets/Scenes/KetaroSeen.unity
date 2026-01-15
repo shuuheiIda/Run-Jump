@@ -6124,6 +6124,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 2112413753}
   text: {fileID: 1670007520}
+  nextScene: {fileID: 102900000, guid: 019c21b155ea91b4eb4466fb217fd0a4, type: 3}
 --- !u!135 &1787498506
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -6301,7 +6302,7 @@ Transform:
   m_GameObject: {fileID: 1789695059}
   serializedVersion: 2
   m_LocalRotation: {x: 0.53658426, y: -0, z: -0, w: 0.8438468}
-  m_LocalPosition: {x: -3.88, y: 1.41, z: 89.91}
+  m_LocalPosition: {x: -3.88, y: 1.4, z: 91.11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6734,7 +6735,7 @@ Transform:
   m_GameObject: {fileID: 1896207707}
   serializedVersion: 2
   m_LocalRotation: {x: 0.686175, y: -0, z: -0, w: 0.7274366}
-  m_LocalPosition: {x: -6.71, y: 1.54, z: 84.35}
+  m_LocalPosition: {x: -6.71, y: 1.46, z: 83.03}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
