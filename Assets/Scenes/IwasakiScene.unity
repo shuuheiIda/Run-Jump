@@ -332,6 +332,14 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 2112413753}
+    - target: {fileID: 544801219252504290, guid: 24a7622200f02ae4c915306141ef6d6b, type: 3}
+      propertyPath: nextScene
+      value: 
+      objectReference: {fileID: 102900000, guid: c6a6b49445cec9143abad19ced837d7b, type: 3}
+    - target: {fileID: 544801219252504290, guid: 24a7622200f02ae4c915306141ef6d6b, type: 3}
+      propertyPath: sceneAsset
+      value: 
+      objectReference: {fileID: 102900000, guid: 094bc9013a4782e478d27c639d13a872, type: 3}
     - target: {fileID: 544801219252504291, guid: 24a7622200f02ae4c915306141ef6d6b, type: 3}
       propertyPath: m_Name
       value: Goal
