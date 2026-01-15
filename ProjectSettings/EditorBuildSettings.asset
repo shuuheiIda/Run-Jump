@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IwasakiScene.unity
+    guid: c3b9a8ddb08e5b045bc9732e0d3d2076
+  - enabled: 1
+    path: Assets/Scenes/IdaScene.unity
+    guid: 019c21b155ea91b4eb4466fb217fd0a4
+  - enabled: 1
+    path: Assets/Scenes/KetaroSeen.unity
+    guid: c6a6b49445cec9143abad19ced837d7b
+  - enabled: 1
+    path: Assets/Scenes/SoraScene.unity
+    guid: 6a01841c1ee49f54dbe8c6a199afbc1d
+  - enabled: 1
+    path: Assets/Scenes/TakahashiScene.unity
+    guid: 094bc9013a4782e478d27c639d13a872
   m_configObjects: {}
