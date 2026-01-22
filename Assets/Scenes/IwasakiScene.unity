@@ -613,8 +613,8 @@ PrefabInstance:
       objectReference: {fileID: 2112413753}
     - target: {fileID: 544801219252504290, guid: 24a7622200f02ae4c915306141ef6d6b, type: 3}
       propertyPath: nextScene
-      value: 
-      objectReference: {fileID: 102900000, guid: c6a6b49445cec9143abad19ced837d7b, type: 3}
+      value: KetaroSeen
+      objectReference: {fileID: 0}
     - target: {fileID: 544801219252504290, guid: 24a7622200f02ae4c915306141ef6d6b, type: 3}
       propertyPath: sceneAsset
       value: 

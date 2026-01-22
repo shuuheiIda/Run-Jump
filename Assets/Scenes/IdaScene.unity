@@ -1704,7 +1704,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 2112413753}
   text: {fileID: 1670007520}
-  nextScene: {fileID: 102900000, guid: 6a01841c1ee49f54dbe8c6a199afbc1d, type: 3}
+  nextScene: SoraScene
 --- !u!135 &1787498506
 SphereCollider:
   m_ObjectHideFlags: 0

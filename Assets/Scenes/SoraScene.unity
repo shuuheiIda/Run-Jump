@@ -6778,7 +6778,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 2112413753}
   text: {fileID: 1670007520}
-  nextScene: {fileID: 102900000, guid: 094bc9013a4782e478d27c639d13a872, type: 3}
+  nextScene: TakahashiScene
 --- !u!135 &1787498506
 SphereCollider:
   m_ObjectHideFlags: 0

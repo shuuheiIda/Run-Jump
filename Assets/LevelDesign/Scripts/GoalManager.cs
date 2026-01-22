@@ -9,7 +9,7 @@ public class GoalManager : MonoBehaviour
 {
     public GameObject player;    //プレイヤーを格納するための変数
     public GameObject text;     //テキストを格納するための変
-    public SceneAsset nextScene;
+    public string nextScene;
     private bool isGoal = false;    //Goalしたかどうか判定する
 
     void Update()
@@ -46,6 +46,6 @@ public class GoalManager : MonoBehaviour
 
     private void GoNextStage()
     {
-        SceneManager.LoadScene(nextScene.name);        // Sceneの読み直し
+        SceneManager.LoadScene(nextScene);        // Sceneの読み直し
     }
 }

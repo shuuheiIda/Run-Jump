@@ -7300,7 +7300,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 2112413753}
   text: {fileID: 1670007520}
-  nextScene: {fileID: 102900000, guid: 019c21b155ea91b4eb4466fb217fd0a4, type: 3}
+  nextScene: IdaScene
 --- !u!135 &1787498506
 SphereCollider:
   m_ObjectHideFlags: 0

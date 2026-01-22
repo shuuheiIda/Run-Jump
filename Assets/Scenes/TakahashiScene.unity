@@ -2838,7 +2838,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 2112413753}
   text: {fileID: 1670007520}
-  nextScene: {fileID: 102900000, guid: c3b9a8ddb08e5b045bc9732e0d3d2076, type: 3}
+  nextScene: IwasakiScene
 --- !u!135 &1787498506
 SphereCollider:
   m_ObjectHideFlags: 0
